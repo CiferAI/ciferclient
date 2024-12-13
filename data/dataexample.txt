@@ -1,0 +1,1 @@
+You can store your data here to keep the project files well-organized.
